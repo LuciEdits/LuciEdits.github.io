@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LuciEdits</h1>
 <h3 align="center">A passionate developer from the UAE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luciedits&label=Profile%20views&color=0e75b6&style=flat" alt="luciedits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luciedits&label=Profile%20views&color=a64dfe&style=flat-square" alt="luciedits" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luciedits" alt="luciedits" /></a> </p>
 
@@ -25,6 +25,7 @@
 <a href="https://twitter.com/saleh4tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saleh4tv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saleh4tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleh4tv" height="30" width="40" /></a>
 <a href="https://instagram.com/ptx8_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ptx8_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/luciedits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciedits" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciedits&show_icons=true&theme=synthwave&title_color=a257ff&text_color=47ffe0&bg_color=586984&locale=en&layout=compact" alt="luciedits" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciedits&show_icons=true&locale=en" alt="luciedits" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciedits&show_icons=true&theme=synthwave&title_color=a257ff&text_color=47fffe&bg_color=586984&locale=en" alt="luciedits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luciedits&" alt="luciedits" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luciedits&theme=dark" alt="luciedits" /></p>
