@@ -25,7 +25,7 @@
 <a href="https://twitter.com/saleh4tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saleh4tv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saleh4tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleh4tv" height="30" width="40" /></a>
 <a href="https://instagram.com/ptx8_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ptx8_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luciedits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciedits" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGLwwcZ6TJdXBj1TyMNW4Dw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciedits" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
